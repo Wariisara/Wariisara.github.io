@@ -1,8 +1,6 @@
 **CISSP Glossary**
 - English
   - Ensuring timely and reliable access to and use of information by authorized users.
-- ภาษาไทย
-  - บรองการเข้าถึงและการใช้ข้อมูลอย่างทันท่วงทีและเชื่อถือได้โดยผู้ใช้ที่ได้รับอนุญาต 
 - ChatGPT
   - การทำให้ผู้ที่ได้รับสิทธิ์สามารถเข้าถึงและใช้ข้อมูลได้ทันเวลาและเชื่อถือได้
 - Gemini
