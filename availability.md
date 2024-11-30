@@ -1,5 +1,5 @@
 **CISSP Glossary**
-<br />
+<br /> <br />
 **Availability**
 - **English**
   - **Ensuring timely and reliable access to and use of information by authorized users.**
@@ -9,7 +9,7 @@
   - การรับรองการเข้าถึงและการใช้งานข้อมูลที่ถูกต้องและทันเวลา โดยผู้ที่มีสิทธิ์เข้าถึงเท่านั้น
  
 **Gartner**
-<br />
+<br /> <br />
 **Availability**
 - **English**
   - **Availability is the assurance that an enterprise’s IT infrastructure has suitable recoverability and protection from system failures, natural disasters or malicious attacks.**
