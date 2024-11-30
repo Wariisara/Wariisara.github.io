@@ -36,4 +36,4 @@
   - ระบบไฟจราจรในเมืองใหญ่ต้องพร้อมทำงานตลอดเวลา หากระบบล่ม อาจก่อให้เกิดความวุ่นวายหรืออุบัติเหตุบนท้องถนน
  
 
-<a href="https://suphat00.github.io/availability"> Go to Page Myfriend ^^ </a>
+<a href="https://google.com"> Go to Page Myfriend ^^ </a>
