@@ -1,7 +1,7 @@
 **CISSP Glossary**
 **Availability**
 - **English**
-  - Ensuring timely and reliable access to and use of information by authorized users.
+  - **Ensuring timely and reliable access to and use of information by authorized users.**
 - **ChatGPT**
   - การทำให้ผู้ที่ได้รับสิทธิ์สามารถเข้าถึงและใช้ข้อมูลได้ทันเวลาและเชื่อถือได้
 - **Gemini**
@@ -10,7 +10,7 @@
 **Gartner**
 **Availability**
 - **English**
-  - Availability is the assurance that an enterprise’s IT infrastructure has suitable recoverability and protection from system failures, natural disasters or malicious attacks.
+  - **Availability is the assurance that an enterprise’s IT infrastructure has suitable recoverability and protection from system failures, natural disasters or malicious attacks.**
 - **ChatGPT**
   - การทำให้ระบบไอทีขององค์กรพร้อมรับมือและฟื้นตัวได้จากปัญหา เช่น ระบบล่ม ภัยธรรมชาติ หรือการถูกโจมตี
 - **Gemini**
