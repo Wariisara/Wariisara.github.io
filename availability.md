@@ -9,6 +9,7 @@
   - การรับรองการเข้าถึงและการใช้งานข้อมูลที่ถูกต้องและทันเวลา โดยผู้ที่มีสิทธิ์เข้าถึงเท่านั้น
  
 **Gartner**
+##
 **Availability**
 - **English**
   - **Availability is the assurance that an enterprise’s IT infrastructure has suitable recoverability and protection from system failures, natural disasters or malicious attacks.**
