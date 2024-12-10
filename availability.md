@@ -1,5 +1,7 @@
 # Availability
 
+---
+
 ## CISSP Glossary
 
 ### English  
