@@ -1,6 +1,6 @@
-# CISSP Glossary
+# Availability
 
-## Availability
+## CISSP Glossary
 
 ### English  
 - **Ensuring timely and reliable access to and use of information by authorized users.**
@@ -53,7 +53,5 @@
 
 ### Traffic Light Control System  
 - ระบบไฟจราจรในเมืองใหญ่ต้องพร้อมทำงานตลอดเวลา หากระบบล่ม อาจก่อให้เกิดความวุ่นวายหรืออุบัติเหตุบนท้องถนน
-
----
 
 [Go to Page Myfriend ^^](https://suphat00.github.io/availability)
