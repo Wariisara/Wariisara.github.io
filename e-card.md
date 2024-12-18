@@ -4,4 +4,4 @@
 [Let's decode from my card ^^](https://stylesuxx.github.io/steganography/)
 <br />
 
-[back my profile](https://wariisara.github.io/)
+[< my profile](https://wariisara.github.io/)
