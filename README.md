@@ -4,7 +4,6 @@
       
 ![me](/img/photome.jpg)
 
-[> my profile](https://wariisara.github.io/)
 
 
-[< my work](https://wariisara.github.io/mywork)
+[> my work](https://wariisara.github.io/mywork)
