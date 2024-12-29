@@ -8,10 +8,12 @@
 
 ## Definition
 - **Eng Version**
-- Relevance is the dimension of data quality that refers to how well the data fits the specific goals and requirements of an analysis or campaign. Only relevant data contributes to the effectiveness of marketing efforts. Irrelevant data dilutes analysis and leads to wasted resources. For instance, demographic data that is irrelevant to a particular target audience could result in marketing messages   that miss the mark.
+- Relevance is the dimension of data quality that refers to how well the data fits the specific goals and requirements of an analysis or campaign. Only relevant data contributes to the effectiveness of marketing efforts. Irrelevant data dilutes analysis and leads to wasted resources. For instance, demographic data that is irrelevant to a particular target audience could result in marketing messages that miss the mark.
 
 - **Thai Version**
 - ความเกี่ยวข้อง (Relevance) เป็นมิติหนึ่งของคุณภาพข้อมูลที่สะท้อนถึงความเหมาะสมของข้อมูลกับเป้าหมายและความต้องการเฉพาะของการวิเคราะห์หรือแคมเปญ ข้อมูลที่เกี่ยวข้องเท่านั้นที่สามารถช่วยเพิ่มประสิทธิภาพของความพยายามทางการตลาดได้ ในทางตรงกันข้าม ข้อมูลที่ไม่เกี่ยวข้องอาจทำให้การวิเคราะห์ลดประสิทธิภาพและสิ้นเปลืองทรัพยากรได้ ตัวอย่างเช่น การใช้ข้อมูลประชากรที่ไม่เกี่ยวข้องกับกลุ่มเป้าหมายอาจนำไปสู่ข้อความทางการตลาดที่ไม่ตรงใจผู้บริโภค
+
+---
 
 ## Meaning By 
 
@@ -21,7 +23,20 @@
 ###  Gemini
 - หมายถึง ความสำคัญของการมีข้อมูลที่ถูกต้อง ครบถ้วน และมีความเกี่ยวข้องกับปัญหาหรือเป้าหมายที่เราต้องการแก้ไข ซึ่งจะช่วยให้เราสามารถนำข้อมูลไปใช้ประโยชน์ในการตัดสินใจและวิเคราะห์ได้อย่างมีประสิทธิภาพ
 
+---
+
 ## My Summary
-- Relevance (ความเกี่ยวข้อง) เป็นหนึ่งในองค์ประกอบของ Data Quality ที่สำคัญมาก ที่ช่วยในการประกอบการตัดสินใจและการวิเคราะห์ข้อมูล 
+- Relevance (ความเกี่ยวข้อง) เป็นหนึ่งในองค์ประกอบของ Data Quality ที่สำคัญมาก ที่ช่วยในการประกอบการตัดสินใจและการวิเคราะห์ข้อมูล โดยข้อมูลจะต้องมีความเกี่ยวข้องกับวัตถุประสงค์ที่ตั้งไว้ และข้อมูลนั้นต้องมีความถูกต้อง ครบถ้วน มีความเชื่อมโยงกันจริงๆ ซึ่งจะทำให้การวิเคราะห์ข้อมูลนั้นเป็นไปอย่างมีประสิทธิภาพ ลดการเกิดปัญหาต่างๆ ที่อาจส่งผลกระทบในภายหลัง
+
+---
 
 ## Sample
+
+### ธุรกิจค้าปลีก (Retail business)
+- หากบริษัทต้องการวิเคราะห์พฤติกรรมการซื้อของลูกค้า ข้อมูลที่เกี่ยวข้องและมีคุณภาพ เช่น ประวัติการซื้อสินค้า, ข้อมูลทางประชากร, และความพึงพอใจของลูกค้า ข้อมูลเหล่านี้จะช่วยให้บริษัทสามารถทำการตลาดได้อย่างตรงกลุ่มเป้าหมายและสามารถเพิ่มยอดขายได้
+
+### การวิจัยทางการแพทย์ (Medical research)
+- ในการวิจัยยาชนิดใหม่ ข้อมูลที่มีคุณภาพและเกี่ยวข้อง อาจรวมถึงข้อมูลทางพันธุกรรมของผู้ป่วย , ผลการทดลองทางคลินิก , และประวัติการรักษา ซึ่งข้อมูลเหล่านี้จะช่วยให้นักวิจัยสามารถพัฒนายาที่มีประสิทธิภาพและปลอดภัยได้
+
+---
+[< my work](https://wariisara.github.io/mywork)
