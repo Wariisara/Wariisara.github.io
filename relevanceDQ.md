@@ -8,7 +8,7 @@
 
 ## Definition
 - **Eng Version**
-- Relevance is the dimension of data quality that refers to how well the data fits the specific goals and requirements of an analysis or campaign. Only relevant data contributes to the effectiveness of marketing efforts. Irrelevant data dilutes analysis and leads to wasted resources. For instance, demographic data that is irrelevant to a particular target audience could result in marketing messages that miss the mark.
+- **Relevance is the dimension of data quality that refers to how well the data fits the specific goals and requirements of an analysis or campaign. Only relevant data contributes to the effectiveness of marketing efforts. Irrelevant data dilutes analysis and leads to wasted resources. For instance, demographic data that is irrelevant to a particular target audience could result in marketing messages that miss the mark.**
 
 - **Thai Version**
 - ความเกี่ยวข้อง (Relevance) เป็นมิติหนึ่งของคุณภาพข้อมูลที่สะท้อนถึงความเหมาะสมของข้อมูลกับเป้าหมายและความต้องการเฉพาะของการวิเคราะห์หรือแคมเปญ ข้อมูลที่เกี่ยวข้องเท่านั้นที่สามารถช่วยเพิ่มประสิทธิภาพของความพยายามทางการตลาดได้ ในทางตรงกันข้าม ข้อมูลที่ไม่เกี่ยวข้องอาจทำให้การวิเคราะห์ลดประสิทธิภาพและสิ้นเปลืองทรัพยากรได้ ตัวอย่างเช่น การใช้ข้อมูลประชากรที่ไม่เกี่ยวข้องกับกลุ่มเป้าหมายอาจนำไปสู่ข้อความทางการตลาดที่ไม่ตรงใจผู้บริโภค
