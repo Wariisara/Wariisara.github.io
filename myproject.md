@@ -7,11 +7,13 @@
 
 ### Fanmeet Booking
 - [Click to see details](https://github.com/Wariisara/Project/blob/main/C%2B%2B_fanmeet_booking.cpp)
+
 ---
 
 ## 2023
 ### Puzzle Game
 - [Click to see details](https://github.com/Wariisara/Project/blob/main/Java_Puzzle%20Game.jar)
+
 ---
 
 ## 2024
@@ -23,7 +25,8 @@
 
 ### Business data demension Project
 - [Click to see details](https://public.tableau.com/app/profile/warisara.yaemma/viz/project-1_17363109349200/homepage-1)
+
 ---
 
-## Thank you for your time and consideration. 
-## I look forward to hearing good news from you and hope that we can work together.
+### Thank you for your time and consideration. 
+### I look forward to hearing good news from you and hope that we can work together.
