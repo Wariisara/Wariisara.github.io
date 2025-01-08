@@ -22,7 +22,7 @@
 - [Click to see details](https://github.com/Wariisara/Project/blob/main/PM_Class%20Schedule%20App.pdf)
 
 ### Business data demension Project
-- [Click to see details](https://github.com/Wariisara/Project/blob/main/SA_Hotel%20Reservation%20System.pdf)
+- [Click to see details](https://public.tableau.com/app/profile/warisara.yaemma/viz/project-1_17363109349200/homepage-1)
 ---
 
 ## Thank you for your time and consideration. 
