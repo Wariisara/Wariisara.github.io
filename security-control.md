@@ -2,14 +2,14 @@
 
 ---
 
-# Dormitory rules
+## Dormitory rules
 
 ---
 
-## Type Of Security Controls
+### Type Of Security Controls
 - **Administrative**
 
-## Control Functions
+### Control Functions
 - **Preventative**
 - การตั้งกฎของหอพัก เป็นการกำหนดแนวทางหรือข้อปฏิบัติที่ผู้เข้าพักควรปฏิบัติตาม มีความเข้าใจร่วมกันในพื้นที่พักอาศัยเดียวกัน เพื่อรักษาความปลอดภัย และป้องกันปัญหาหรือความเสี่ยงที่อาจเกิดขึ้นได้ในอนาคต
 
