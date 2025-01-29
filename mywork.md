@@ -14,5 +14,7 @@
 ### Security Control
 - [my work](https://wariisara.github.io/security-control)
 
+### Cyber Boardgame
+- [my work](https://wariisara.github.io/boardgame)
 ---
 [< my profile](https://wariisara.github.io/)
