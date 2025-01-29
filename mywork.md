@@ -11,5 +11,8 @@
 ### Data Quality
 - [my work](https://wariisara.github.io/relevance-dq)
 
+### Security Control
+- [my work](https://wariisara.github.io/security-control)
+
 ---
 [< my profile](https://wariisara.github.io/)
