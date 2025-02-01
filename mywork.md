@@ -17,6 +17,8 @@
 ### Cyber Boardgame
 - [my work](https://wariisara.github.io/boardgame)
 
+### PAO Elections
+- [my work](https://wariisara.github.io/pao-elections)
 
 ---
 [< my profile](https://wariisara.github.io/)
