@@ -53,7 +53,7 @@
 - [go to page >]() 6530250174 - Pisitchai Wongsopon
 - [go to page >]() 6530250221 - Wilaiphan Kunlachet
 - [go to page >]() 6530250417 - Panita Yapolha
-- [go to page >]() 6530250468 - Warisara Yamma
+- [go to page >](https://wariisara.github.io/boardgame-seven) 6530250468 - Warisara Yamma
 - [go to page >]() 6530250603 - Suphattra Prasomsap
 - [go to page >]() 6530250565 - Panissara Poungurai
 
