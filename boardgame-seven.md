@@ -1,2 +1,2 @@
-#            NCSA Boardgame with Seven Group
+#  🤖 NCSA Boardgame with Seven Group
 ![bg](img/bgame.jpg)
