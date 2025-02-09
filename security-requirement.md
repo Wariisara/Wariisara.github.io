@@ -6,7 +6,7 @@
 
 ---
 
-## 5.4.2 Verify that format strings do not take potentially hostile input, and are  constant.
+### 5.4.2 Verify that format strings do not take potentially hostile input, and are  constant.
 
 ### ChatGPT  
 - ความปลอดภัยของข้อมูล และ การป้องกันช่องโหว่ในโปรแกรม โดยเฉพาะช่องโหว่ที่เกี่ยวกับ Format String Vulnerability เช่น ใช้ %s, %x, %d  โดยไม่ควบคุมหรือกรองอินพุตที่ป้อนเข้ามา ส่งผลให้สามารถเข้าถึงหรือแก้ไขหน่วยความจำที่ไม่ควรเข้าถึงได้้
@@ -18,3 +18,5 @@
 
 ### My Summary
 - เป็นการตรวจสอบความปลอดภัยของข้อมูล ที่มีช่องโหว่ที่เป็นการจัดรูปแบบข้อความ หรือ  Format String ซึ่งช่องโหว่นั้นเกิดขึ้นจากการรับ input จากผู้ใช้มา ซึ่งอาจทำให้เกิดการทำงานที่ผิดพลาดได้ ถ้าไม่ได้ทำการ Format String ไว้
+
+---
