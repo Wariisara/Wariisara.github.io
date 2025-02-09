@@ -20,5 +20,5 @@
 - เป็นการตรวจสอบความปลอดภัยของข้อมูล ที่มีช่องโหว่ที่เป็นการจัดรูปแบบข้อความ หรือ  Format String ซึ่งช่องโหว่นั้นเกิดขึ้นจากการรับ input จากผู้ใช้มา ซึ่งอาจทำให้เกิดการทำงานที่ผิดพลาดได้ ถ้าไม่ได้ทำการ Format String ไว้
 
 ---
-[go to page >](https://wariisara.github.io/security-requirement) 6530250468 - Warisara Yamma
-[go to page >]() 6530250603 - Suphattra Prasomsap
+- [go to page >](https://wariisara.github.io/security-requirement) 6530250468 - Warisara Yamma
+- [go to page >]() 6530250603 - Suphattra Prasomsap
