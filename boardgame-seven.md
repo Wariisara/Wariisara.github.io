@@ -51,10 +51,10 @@
 ### สมาชิก
 - [go to page >]() 6530250140 - Pattarapa Thap-Amphan 
 - [go to page >]() 6530250174 - Pisitchai Wongsopon
-- [go to page >]() 6530250221 - Wilaiphan Kunlachet
-- [go to page >]() 6530250417 - Panita Yapolha
+- [go to page >](https://wilaiphan.github.io/boardgame-seven) 6530250221 - Wilaiphan Kunlachet
+- [go to page >](https://panita18.github.io/boardgame-seven) 6530250417 - Panita Yapolha
 - [go to page >](https://wariisara.github.io/boardgame-seven) 6530250468 - Warisara Yamma
-- [go to page >]() 6530250603 - Suphattra Prasomsap
+- [go to page >](https://suphat00.github.io/boardgame-seven) 6530250603 - Suphattra Prasomsap
 - [go to page >]() 6530250565 - Panissara Poungurai
 
 ---
