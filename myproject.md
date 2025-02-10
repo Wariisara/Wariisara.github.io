@@ -17,8 +17,11 @@
 ---
 
 ## 2024
-### SA Project : Hotel reservation system
+### SA Project : Hotel reservation system (PDF)
 - [Click to see details](https://github.com/Wariisara/Project/blob/main/SA_Hotel%20Reservation%20System.pdf)
+
+### SA Project : Hotel reservation system (Figma)
+- [Click to see details](https://github.com/Wariisara/Project/blob/main/Figma%20Project.md)
 
 ### PM Project : Class Schedule App
 - [Click to see details](https://github.com/Wariisara/Project/blob/main/PM_Class%20Schedule%20App.pdf)
