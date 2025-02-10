@@ -21,4 +21,11 @@
 
 ---
 - [go to page >](https://wariisara.github.io/security-requirement) 6530250468 - Warisara Yamma
-- [go to page >]() 6530250603 - Suphattra Prasomsap
+- [go to page >](https://suphat00.github.io/security-requirement) 6530250603 - Suphattra Prasomsap
+
+---
+
+[< my profile](https://wariisara.github.io/)
+
+
+[< my work](https://wariisara.github.io/mywork)
